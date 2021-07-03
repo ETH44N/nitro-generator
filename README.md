@@ -1,4 +1,4 @@
-# nitro-generator
+# Discord nitro generator
 Generates discord nitro fast
 <h1>FR</h2>
 Ce code permet de générer des discord nitros rapidement et facilement
